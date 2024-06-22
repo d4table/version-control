@@ -1,0 +1,13 @@
+What is Git? is a distributed version control system which allows multiple developers to work on a project simultaneously without interfering it with each other’s work
+What is the difference between Git and GitHub? Git runs locally on your computer. GitHub is a cloud-based hosting service for Git repositories. Git and GitHub enable multiple developers to work on the same project simultaneously without conflicts
+Importance of Git/GitHub; enable multiple developers to work on the same project simultaneously without conflicts. Track changes, revert to previous versions, and understand the history of a project.
+Examples of Git Best Practices: Make small, frequent commits with meaningful messages. Provide context about what changes were made and why.
+working directory is the local workspace where you make changes to your project files
+Local repository stored on your local machine. It contains the project's history and allows you to make changes offline.
+A remote repository hosted on a server allows multiple developers to collaborate and share changes. 8. A staging area is where changes are listed before they are committed.
+Git Init command initializes a new Git repository in the current directory, creating the necessary metadata files and directories for version control
+Git Clone creates a copy of a remote repository on your local machine, including all files, commit history, and branches.
+Git Pull fetches changes from a remote repository and merges them into your current branch. It's a combination of git fetch and git merge.
+git config command is used to configure Git settings, such as user information (name and email), default editor, and repository-specific configurations. It can set configuration at different levels: system, global, and local.
+A commit message is a brief description that explains the changes made in a particular commit. It helps other developers understand the context and purpose of the changes.
+Advantages of Distributed Version Control; Every developer has a full copy of the repository, including the history, enabling
